@@ -1,0 +1,21 @@
+Texas HOld Em game
+
+
+Vars:
+1. All the types of cards - deck of cards,
+2. How much money a player has and starts with.
+3. Blinds
+
+
+Functions:
+1. Give out cards to everyone.
+
+2. Have players make their choices - Bots have a strategy they follow.
+
+3. Deal cards then send to func 2
+
+4. compare all hands to determine winner.
+
+5. Give out rewards to winner/winners.
+
+6. Skip bots if main player folds.
